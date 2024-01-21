@@ -73,7 +73,7 @@ export function Pricing() {
                     €
                   </span>
                   <span className="ml-1 mt-1 text-7xl tracking-tight text-white">
-                    15
+                    10
                   </span>
                 </p>
                 <p className="-order-1 flex font-display font-bold">
@@ -125,7 +125,7 @@ export function Pricing() {
                     €
                   </span>
                   <span className="ml-1 mt-1 text-7xl tracking-tight text-white">
-                    15
+                    10
                   </span>
                 </p>
                 <p className="-order-1 flex font-display font-bold">
